@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Eventra (University Club & Event Management System)** and a **Smart Campus Management System**.<br><br>👯 I’m looking to collaborate on **Full-Stack (MERN / Next.js / Spring Boot) applications** and **Data Analysis projects**.<br><br>🤝 I’m looking for help with **Mastering advanced AI workflows and optimizing database architectures**.<br><br>🌱 I’m currently learning **Python for Data Analysis, TypeScript, and React Native**.<br><br>💬 Ask me about **Full-stack web development, test automation with Playwright, or building UI systems**.<br><br>⚡ Fun fact **I automated a Sinhala chat translator testing tool using Python and Playwright!**
+🔭 I’m currently working on **Eventra (University Club & Event Management System)** and a **Smart Campus Management System**.<br><br>👯 I’m looking to collaborate on **Full-Stack (MERN / Next.js / Spring Boot) applications** and **Data Analysis projects**.<br><br>🤝 I’m looking for help with **Mastering advanced AI workflows and optimizing database architectures**.<br><br>🌱 I’m currently learning **Python for Data Analysis, TypeScript and React Native**.<br><br>💬 Ask me about **Full-stack web development, test automation with Playwright, or building UI systems**.<br><br>⚡ Fun fact **I automated a Sinhala chat translator testing tool using Python and Playwright!**
 
 
 ## 🌐 Socials:
