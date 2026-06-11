@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 I am Undergraduate at **SLIIT** — BSc (Hons) in Information Technology
 
